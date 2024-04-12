@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to learn.
 - 💬 Ask me about anything.
 
-- https://leetcode-stats-api.herokuapp.com/briantoanle
+[![<USERNAME>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<briantoanle>&theme=<dark>)](https://github.com/JeremyTsaii/leetcode-stats)
 <!--
 **briantoanle/briantoanle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
