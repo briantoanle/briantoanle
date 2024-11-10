@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Toan
 
-- 🔭 I’m currently working on bringing value to others.
-- 🌱 I’m currently learning to learn.
-- 💬 Ask me about anything.
 
 [![<briantoanle>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=briantoanle&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 <!--
