@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Toan
 # Hi, I'm Toan 👋
 
-Computer Science grad transitioning into manufacturing, automation, and robotics.
+Computer Science grad trying to bridge the gap between academia and real-world software engineering experience. 
 
 This repository is my personal knowledge base:
 - Things I wish I knew earlier
@@ -13,17 +13,17 @@ This repository is my personal knowledge base:
 
 ## About Me
 
-- CS background learning PLCs and industrial systems
-- Interested in robotics + real-world engineering
-- Building projects that bridge software and hardware
+- CS background that slacked off in college, now trying to catch up. 
+- Pretty confident in Data Structures and Algorithm.
+- I enjoy beautiful UI/UX, not a fan of creating them.
 
 ---
 
 ## Things I Wish I Knew in College
 
 ### Learning
-- Learn Git seriously early
-- Build projects before you feel ready
+- Learn Git
+- Build projects,
 - Systems > frameworks
 
 ### Technical
@@ -31,28 +31,26 @@ This repository is my personal knowledge base:
 - Read documentation
 - Learn Linux basics
 
-### Mental Models
-- Done > perfect
-- Everyone feels behind
-- Small projects compound
+
 
 ---
 
-## Job Hunting Resources
+## Career Resources
 
+### Overall Career guide, from starting college to getting a job
+- https://pittcs.wiki/
+  
 ### Resume
 - Jake’s Resume Template
-- Overleaf
 
+### Applying to jobs
+- simplify.jobs' extension to help with autofill
+- newgrad-jobs.com or jobright.ai for listings
+- https://github.com/SimplifyJobs/New-Grad-Positions?
 ### Interview Prep
 - LeetCode
-- NeetCode
-- System Design Primer
-
-### Manufacturing / Robotics
-- Siemens PLC docs
-- Rockwell Automation tutorials
-- ROS documentation
+- NeetCode, faster execution time than LeetCode, quite a few paywalled problems. 
+- prachub.com, a question bank for interviews from big companies
 
 ---
 
@@ -64,40 +62,9 @@ This repository is my personal knowledge base:
 - AWS Educate
 - Azure for Students
 
-### Design / Productivity
-- Notion Pro
-- Figma Education
-
----
-
-## Projects
-
-### Resume Tailoring Web App
-Customizes LaTeX resumes to job descriptions.
-
-### PLC Ladder Logic Playground
-Practice problems for CS → manufacturing transition.
-
----
-
-## Contact
-
-LinkedIn:  
-Email:
 
 
 [![<briantoanle>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=briantoanle&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 <!--
 **briantoanle/briantoanle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
