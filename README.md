@@ -52,10 +52,9 @@ This repository is my personal knowledge base.
 ## Free Student Offers
 
 ### Developer Tools
-- GitHub Student Pack
+- GitHub Student Pack (comes with GitHub CoPilot)
 - JetBrains IDEs
-- AWS Educate
-- Azure for Students
+
 
 
 
