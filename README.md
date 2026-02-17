@@ -3,12 +3,7 @@
 
 Computer Science grad trying to bridge the gap between academia and real-world software engineering experience. 
 
-This repository is my personal knowledge base:
-- Things I wish I knew earlier
-- Career resources
-- Free student tools
-- Project notes
-
+This repository is my personal knowledge base.
 ---
 
 ## About Me
